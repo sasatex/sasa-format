@@ -1,0 +1,25 @@
+\documentclass{oblivoir}
+\usepackage{lipsum}
+\usepackage{multicol}
+\begin{document}
+	\lipsum[19] 
+	\vspace{10pt}
+	\noindent
+	\framebox{
+		\begin{minipage}{0.45\linewidth} 
+		\vspace{10pt}
+		\begin{center}
+			\begin{minipage}{0.965 \linewidth} \lipsum[20] \end{minipage}
+		\end{center} 
+		\vspace{0pt}
+	\end{minipage}}
+	\hspace{0.02\linewidth}\vrule\hspace{0.02\linewidth}
+	\framebox{		
+	\begin{minipage}[0.45\linewidth]{0.45\linewidth} 
+		\vspace{10pt}
+		\begin{center}
+			\begin{minipage}{0.965 \linewidth} \lipsum[21] \end{minipage}
+		\end{center}
+		\vspace{0pt}
+	\end{minipage}}
+\end{document}

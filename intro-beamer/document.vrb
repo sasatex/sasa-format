@@ -1,0 +1,7 @@
+\frametitle{매크로 지정}
+\begin{itemize}
+	\item 새로운 명령어를 지정하는 것은 \verb|\newcommand{cmd}{def}|,\verb|\def|,
+	\verb|\newenvironment{text}{begdef}{enddef}|등이 존재
+	\item 다만 C처럼 함수를 만든다고 생각하면 조금 곤란함(가능은 하다만\ldots)
+	\item 알아두면 글 작업이 편리해짐.(특히 이미지 첨부, 벡터 그래픽 제작에서)
+\end{itemize}

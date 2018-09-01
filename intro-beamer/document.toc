@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}?}{2}{0}{1}
+\beamer@sectionintoc {2}{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ 입문하기 \ldots }{7}{0}{2}
+\beamer@sectionintoc {3}{수식하기}{27}{0}{3}
+\beamer@sectionintoc {4}{`수식'하기}{34}{0}{4}
+\beamer@sectionintoc {5}{정리}{50}{0}{5}
+\beamer@sectionintoc {6}{Additional T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}?}{51}{0}{6}

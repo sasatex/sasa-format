@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{ifthen}
+\newcommand{\forLoop}[5][1]{
+\setcounter{#4}{#2}
+\ifthenelse{ \value{#4} < #3 }
+{#5\addtocounter{#4}{#1}\forLoop[#1]{\value{#4}}{#3}{#4}{#5}}
+{\ifthenelse{\value{#4} = #3}{#5}{}}
+}
+\newcounter{identRow}
+\newcounter{identCol}
+\newcommand{\idmatrixn}[1]
+{
+	\left[\begin{array}{*{#1}c}
+		\forLoop{1}{#1}{identRow}
+		{
+			\forLoop{1}{#1}{identCol}{
+			\ifthenelse{\equal{\value{identRow}}{\value{identCol}}}{1}{0}
+			\ifthenelse{\equal{\value{identCol}}{#1}}{}{&}
+			}
+			\\
+		}
+	\end{array}\right]
+}
+\begin{document}
+	\begin{equation}
+		\idmatrixn{5}
+	\end{equation}
+\end{document}

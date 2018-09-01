@@ -1,0 +1,63 @@
+\documentclass{oblivoir}
+\usepackage{lipsum}
+\usepackage{multicol}
+\usepackage{multirow}
+\setlength\columnseprule{.4pt}
+\begin{document}
+	$ \left[
+	\begin{array}{c|c|c}
+	2 & 9 & 4 \\ \hline
+	7 & 5 & 3 \\ \hline
+	6 & 1 & 8
+	\end{array} \right]$
+	\vspace*{20pt}
+	
+	\begin{tabular}{ccc|c|c|c|}
+		\cline{4-6}
+		& & & 1 & 2 & 3 \\
+		\hline
+		\multicolumn{3}{|c|}{\multirow{2}{*}{0}} & 1 & 2 & 3 \\
+		\cline{4-6}
+		\multicolumn{3}{|c|}{} & 1 & 2 & 3 \\
+		\hline
+	\end{tabular}
+	
+	\begin{tabular}{cc|c|c|c|c|l}
+		\cline{3-6}
+		& & \multicolumn{4}{ c| }{Primes} \\ \cline{3-6}
+		& & 2 & 3 & 5 & 7 \\ \cline{1-6}
+		\multicolumn{1}{ |c  }{\multirow{2}{*}{Powers} } &
+		\multicolumn{1}{ |c| }{504} & 3 & 2 & 0 & 1 &     \\ \cline{2-6}
+		\multicolumn{1}{ |c  }{}                        &
+		\multicolumn{1}{ |c| }{540} & 2 & 3 & 1 & 0 &     \\ \cline{1-6}
+		\multicolumn{1}{ |c  }{\multirow{2}{*}{Powers} } &
+		\multicolumn{1}{ |c| }{gcd} & 2 & 2 & 0 & 0 & min \\ \cline{2-6}
+		\multicolumn{1}{ |c  }{}                        &
+		\multicolumn{1}{ |c| }{lcm} & 3 & 3 & 1 & 1 & max \\ \cline{1-6}
+	\end{tabular}
+	
+	
+	\vspace{10pt}	%박스와 위 본문과의 거리
+	\fboxsep=1.0pt%
+	\par\smallskip\noindent%
+	{%
+		\framebox{%
+			\begin{minipage}{0.97\linewidth} \par 
+				\smallskip \par
+				\begin{center}
+					\begin{minipage}{0.965 \linewidth} asfsdjfksjdf \end{minipage}
+				\end{center} \par 
+				\vspace{0.1pt}% 박스내본문과 박스하단과의 거리 
+			\end{minipage}%
+	}}%
+	\par
+	\vspace{10pt}
+	
+	
+\end{document}
+
+
+
+
+
+
