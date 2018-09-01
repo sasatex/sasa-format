@@ -1,6 +1,6 @@
-# SASA_TEX
+# SASA_TeX
 
-SASA_TEX
+LaTeX 양식 모음입니다.
 
 
 
