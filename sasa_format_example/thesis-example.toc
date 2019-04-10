@@ -1,0 +1,18 @@
+\contentsline {chapter}{초록}{4}{Item.6}
+\contentsline {chapter}{\numberline {1}서론}{6}{chapter.1}
+\contentsline {chapter}{\numberline {2}이론적 배경}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}특수 상대성이론}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}오일러 회전 변환 행렬}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}민코스프키 시공도식}{10}{section.2.3}
+\contentsline {chapter}{\numberline {3}연구 결과}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}R Tilde 행렬}{11}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}R Tilde 행렬의 정의와 성질}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}다양한 곡선의 R Tilde 회전 변환}{13}{subsection.3.1.2}
+\contentsline {subsubsection}{직선}{13}{section*.3}
+\contentsline {subsubsection}{원}{14}{section*.4}
+\contentsline {subsubsection}{쌍곡선}{15}{section*.6}
+\contentsline {section}{\numberline {3.2}MATLAB 시뮬레이션}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}로렌츠 변환의 행렬 표현}{15}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Text 기반 프로그램 작성 코드}{16}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}GUI 프로그램}{28}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}결론}{30}{chapter.4}

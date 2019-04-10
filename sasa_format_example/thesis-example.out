@@ -1,0 +1,15 @@
+\BOOKMARK [0][-]{Item.6}{초록}{}% 1
+\BOOKMARK [0][-]{chapter.1}{서론}{}% 2
+\BOOKMARK [0][-]{chapter.2}{이론적 배경}{}% 3
+\BOOKMARK [1][-]{section.2.1}{특수 상대성이론}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.2}{오일러 회전 변환 행렬}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.3}{민코스프키 시공도식}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{연구 결과}{}% 7
+\BOOKMARK [1][-]{section.3.1}{R Tilde 행렬}{chapter.3}% 8
+\BOOKMARK [2][-]{subsection.3.1.1}{R Tilde 행렬의 정의와 성질}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.2}{다양한 곡선의 R Tilde 회전 변환}{section.3.1}% 10
+\BOOKMARK [1][-]{section.3.2}{MATLAB 시뮬레이션}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.2.1}{로렌츠 변환의 행렬 표현}{section.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.2.2}{Text 기반 프로그램 작성 코드}{section.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.2.3}{GUI 프로그램}{section.3.2}% 14
+\BOOKMARK [0][-]{chapter.4}{결론}{}% 15
