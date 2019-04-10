@@ -21,7 +21,8 @@ LaTeX은 과학 분야 문서 작성의 표준으로 인정받고 있는 조판 
  - 오른쪽 상단 초록색 버튼 [ Clone or Download ] 을 클릭한다.
  - 오른쪽 [ Download ZIP ] 을 클릭한다.
  - ZIP 파일 압축을 풀고, [ sasa_thesis_form ] 에 있는 졸업논문 양식을 복사하여 사용한다.
-  > 파일 내 thesis-example.tex / thesis-SJ.cls 만으로도 정상적으로 조판됩니다. 나머지 파일은 삭제해도 무방합니다.
+  > 파일 내 thesis-example.tex / thesis-SJ.cls 만으로도 정상적으로 조판됩니다.
+  > 만약, 저자가 2명인 경우 thesis-example-two.tex / thesis-SJ-two.cls 파일을 사용합니다.
  - 기본적으로 설정되어 있는 사항인 (홍길동(3311) / 저자, 학번, 한자성명), (홍길순/Thesis Advisor), (홍길남/지도교사 성명), (이순신, 권율 / 심사위원), 날짜 등은 용도에 맞게 바꾸어 쓰시면 됩니다.
   > 터미널에 git이 설치되어 있는 경우 아래 명령어로도 졸업논문 양식을 다운로드 받을 수 있습니다.
 ```
