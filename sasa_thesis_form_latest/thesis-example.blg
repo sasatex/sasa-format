@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis-example.aux
+The style file: ieeetr.bst
+Database file #1: sasa.bib
+Warning--empty journal in kopka1995guide
+You've used 3 entries,
+            1876 wiz_defined-function locations,
+            494 strings with 3796 characters,
+and the built_in function-call counts, 630 in all, are:
+= -- 62
+> -- 16
+< -- 0
++ -- 7
+- -- 4
+* -- 37
+:= -- 96
+add.period$ -- 4
+call.type$ -- 3
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 35
+empty$ -- 68
+format.name$ -- 4
+if$ -- 152
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 13
+num.names$ -- 3
+pop$ -- 13
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 32
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 6
+width$ -- 4
+write$ -- 29
+(There was 1 warning)

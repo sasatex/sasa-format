@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{kopka1995guide}
+H.~Kopka and P.~Daly, ``A guide to $\{$$\backslash$LaTeX$\}$--document,'' 1995.
+
+\bibitem{slater1994latex}
+J.~E. Slater, ``Latex allergy,'' {\em Journal of allergy and clinical
+  immunology}, vol.~94, no.~2, pp.~139--149, 1994.
+
+\bibitem{lamport1994latex}
+L.~Lamport, {\em LATEX: a document preparation system: user's guide and
+  reference manual}.
+\newblock Addison-wesley, 1994.
+
+\end{thebibliography}
